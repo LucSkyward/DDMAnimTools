@@ -2,7 +2,7 @@
 Unity project helps convert FBX animations into DDM Animations<br/><br/>
 1.Install Unity 2018.4.X<br/>
 2.Open this project in Unity 2018.4.X<br/>
-3.Copy the Fbx files to "Assets/FbxFiles" sub folder,for example,copy fbx to Action folder:
+3.Copy the Fbx files to "Assets/FbxFiles" sub folder,for example,copy fbx to "Action" sub folder:<br/>
 ![](Readme/readme01.png)<br/>
 4.Make sure animation type is "Humanroid"<br/>
 ![](Readme/readme02.png)<br/>
