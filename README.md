@@ -1,5 +1,5 @@
 # DDMAnimTools<br/>
-Unity project helps convert FBX animations into DDM Animations<br/><br/>
+Unity project helps convert FBX animations into DDM(Dance Dance Maker!) Animations<br/><br/>
 1.Install Unity 2018.4.X<br/>
 2.Open this project in Unity 2018.4.X<br/>
 3.Copy the Fbx files to "Assets/FbxFiles" sub folder,for example,copy fbx to "Action" sub folder:<br/>
