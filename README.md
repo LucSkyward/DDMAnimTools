@@ -14,6 +14,6 @@ Unity project helps convert FBX animations into DDM Animations<br/><br/>
 ![](Readme/readme04.png)<br/>
 8.After a while you should see this under "StreamAssets" folder:<br/>
 ![](Readme/readme06.png)<br/>
-9.That is the anim files can use in DDM,you can copy them to sdcard for example:<br/>
+9.That is the anim files can be used in DDM,you can copy them to sdcard for example:<br/>
 adb push *.anim /sdcard/<br/>
 then load anim use DDM animation file dialog.
